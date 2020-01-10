@@ -9,6 +9,11 @@
 	background: #ff4013 !important;
 }
 
+.menubg
+{
+	background: black;
+}
+
 
 .carousel-inner .bgp
 {
@@ -26,7 +31,7 @@
 
 .dropdown-menu2{
 	min-width: 20rem;
-	
+
 }
 
 
