@@ -1,7 +1,12 @@
 .logins
 {
 	background: #ff4013;
-	height: 42px;
+	
+}
+
+.bg-danger
+{
+	background: #ff4013 !important;
 }
 
 
@@ -18,4 +23,11 @@
 {
 	width: 70%;
 }
+
+.dropdown-menu2{
+	min-width: 20rem;
+	
+}
+
+
 
